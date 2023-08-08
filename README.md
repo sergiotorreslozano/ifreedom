@@ -1,2 +1,4 @@
 # ifreedom
-FI
+Pet project 
+
+WIP
