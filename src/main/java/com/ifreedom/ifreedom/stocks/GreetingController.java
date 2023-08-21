@@ -1,4 +1,4 @@
-package com.ifreedom.ifreedom.controller;
+package com.ifreedom.ifreedom.stocks;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
